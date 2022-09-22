@@ -22,3 +22,5 @@ Narrativa:
 •	Os mecânicos possuem código, nome, endereço e especialidade
 
 •	Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
+
+![ER-OFICINA-DATABASE_EXPERIENCE](https://user-images.githubusercontent.com/62629276/191869210-5d2d3cd3-e87b-4c08-a8f2-b309d0313300.png)
